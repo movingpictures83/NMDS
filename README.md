@@ -5,7 +5,7 @@
 # Tested with: PluMA 1.1, R 4.0.0
 # Dependencies: phyloseq 1.32.0, ape 5.4, psadd 0.1.2, ggplot2 3.3.1, microbiome 1.10.0
 
-PluMA plugin that computes an OTU heatmap using Non-Multi-Dimensional Scaling (Kruskal, 1964)
+PluMA plugin that computes an OTU heatmap using Non-Multi-Dimensional Scaling (Kruskal, 1964). 
 
 The following are specified in the input TXT file, as tab-delimited keyword-value pairs.
 
