@@ -1,0 +1,2 @@
+Prefix plugins/NMDS/example
+Plugin NMDS inputfile parameters.txt outputfile heatmap
